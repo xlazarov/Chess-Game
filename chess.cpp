@@ -373,5 +373,3 @@ result chess::play(position from, position to, piece_type promote) {
 }
 
 int main() {}
- 
-reviewed by: Ing. Dávid Bolvanský on 2022-04-08 21:10 CEST
